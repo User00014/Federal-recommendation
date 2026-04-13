@@ -32,13 +32,8 @@ data/*.csv
 # Generated experiment artifacts
 logs/
 cloud_results/
-figures/*
-!figures/architecture_compare_20260413/
-!figures/architecture_compare_20260413/*.png
-!figures/architecture_compare_20260413/*.csv
-!figures/architecture_real_benchmark_20260413/
-!figures/architecture_real_benchmark_20260413/*.png
-!figures/architecture_real_benchmark_20260413/*.csv
+figures/
+reports/
 output/
 最终数据/
 备用数据/
